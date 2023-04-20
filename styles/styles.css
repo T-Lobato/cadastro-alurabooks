@@ -24,3 +24,9 @@ body {
     font-size: 16px;
     font-weight: 400;
 }
+
+.cep__invalido {
+    margin-top: 0.5em;
+    color: red;
+
+}
